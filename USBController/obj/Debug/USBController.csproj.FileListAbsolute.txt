@@ -1,0 +1,13 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.Form2.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\bin\Debug\USBController.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\bin\Debug\USBController.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\bin\Debug\USBController.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.TrustInfo.xml
+D:\PowerUser\SecurityProgrammingWithCsharp\USBController\obj\Debug\USBController.exe.manifest
