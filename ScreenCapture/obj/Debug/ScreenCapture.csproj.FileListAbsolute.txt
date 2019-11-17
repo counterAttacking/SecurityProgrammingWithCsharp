@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\bin\Debug\ScreenCapture.exe.config
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\bin\Debug\ScreenCapture.exe
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\bin\Debug\ScreenCapture.pdb
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.exe
+D:\PowerUser\SecurityProgrammingWithC#\ScreenCapture\obj\Debug\ScreenCapture.pdb
