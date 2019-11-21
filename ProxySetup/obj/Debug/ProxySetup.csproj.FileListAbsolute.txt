@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\bin\Debug\ProxySetup.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\bin\Debug\ProxySetup.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\bin\Debug\ProxySetup.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\ProxySetup\obj\Debug\ProxySetup.pdb
