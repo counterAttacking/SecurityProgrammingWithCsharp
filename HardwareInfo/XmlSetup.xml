@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppSettings>
+  <WMI>
+    <property>Win32_BaseBoard</property>
+    <property>Win32_Battery</property>
+    <property>Win32_BIOS</property>
+    <property>Win32_Bus</property>
+    <property>Win32_CDROMDrive</property>
+    <property>Win32_DiskDrive</property>
+    <property>Win32_DMAChannel</property>
+    <property>Win32_Fan</property>
+    <property>Win32_FloppyController</property>
+    <property>Win32_FloppyDrive</property>
+    <property>Win32_IDEController</property>
+    <property>Win32_IRQResource</property>
+    <property>Win32_Keyboard</property>
+    <property>Win32_MemoryDevice</property>
+    <property>Win32_NetworkAdapter</property>
+    <property>Win32_NetworkAdapterConfiguration</property>
+    <property>Win32_OnBoardDevice</property>
+    <property>Win32_ParallelPort</property>
+    <property>Win32_PCMCIAController</property>
+    <property>Win32_PhysicalMedia</property>
+    <property>Win32_PhysicalMemory</property>
+    <property>Win32_PortConnector</property>
+    <property>Win32_PortResource</property>
+    <property>Win32_Processor</property>
+    <property>Win32_SCSIController</property>
+    <property>Win32_SerialPort</property>
+    <property>Win32_SerialPortConfiguration</property>
+    <property>Win32_SoundDevice</property>
+    <property>Win32_SystemEnclosure</property>
+    <property>Win32_TapeDrive</property>
+    <property>Win32_TemperatureProbe</property>
+    <property>Win32_UninterruptiblePowerSupply</property>
+    <property>Win32_USBController</property>
+    <property>Win32_USBHub</property>
+    <property>Win32_VideoController</property>
+    <property>Win32_VoltageProbe</property>
+  </WMI>
+</AppSettings>

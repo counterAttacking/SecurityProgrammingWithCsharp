@@ -1,0 +1,11 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\bin\Debug\HardwareInfo.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\bin\Debug\HardwareInfo.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\bin\Debug\HardwareInfo.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.csproj.ResolveComReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\HardwareInfo\obj\Debug\HardwareInfo.pdb
