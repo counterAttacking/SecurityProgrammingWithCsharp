@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\bin\Debug\WaterMarking.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\bin\Debug\WaterMarking.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\bin\Debug\WaterMarking.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\WaterMarking\obj\Debug\WaterMarking.pdb
