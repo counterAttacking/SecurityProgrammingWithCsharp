@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\bin\Debug\FindHiddenFile.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\bin\Debug\FindHiddenFile.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\bin\Debug\FindHiddenFile.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FindHiddenFile\obj\Debug\FindHiddenFile.pdb
