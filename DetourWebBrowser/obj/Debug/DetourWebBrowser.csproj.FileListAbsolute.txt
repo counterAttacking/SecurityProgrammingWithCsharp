@@ -1,0 +1,11 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\bin\Debug\DetourWebBrowser.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\bin\Debug\DetourWebBrowser.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\bin\Debug\DetourWebBrowser.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.Form2.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\DetourWebBrowser\obj\Debug\DetourWebBrowser.pdb
