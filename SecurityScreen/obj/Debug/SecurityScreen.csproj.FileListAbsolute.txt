@@ -1,0 +1,17 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.Form2.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.Form3.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\bin\Debug\SecurityScreen.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\bin\Debug\SecurityScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\bin\Debug\SecurityScreen.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.TrustInfo.xml
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.exe.manifest
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\bin\Debug\SecurityScreen.exe.manifest
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\bin\Debug\SecurityScreen.application
+D:\PowerUser\SecurityProgrammingWithCsharp\SecurityScreen\obj\Debug\SecurityScreen.application
