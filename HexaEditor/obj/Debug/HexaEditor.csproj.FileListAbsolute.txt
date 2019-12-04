@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\bin\Debug\HexaEditor.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\bin\Debug\HexaEditor.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\bin\Debug\HexaEditor.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\HexaEditor\obj\Debug\HexaEditor.pdb
