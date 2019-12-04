@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\bin\Debug\FileWipe.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\bin\Debug\FileWipe.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\bin\Debug\FileWipe.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FileWipe\obj\Debug\FileWipe.pdb
