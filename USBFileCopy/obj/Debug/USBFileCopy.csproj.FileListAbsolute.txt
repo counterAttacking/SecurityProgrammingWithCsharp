@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\bin\Debug\USBFileCopy.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\bin\Debug\USBFileCopy.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\bin\Debug\USBFileCopy.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\USBFileCopy\obj\Debug\USBFileCopy.pdb
