@@ -1,0 +1,12 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\bin\Debug\TrashBox.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\bin\Debug\TrashBox.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\bin\Debug\TrashBox.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\Interop.Shell32.dll
+D:\PowerUser\SecurityProgrammingWithCsharp\TrashBox\obj\Debug\TrashBox.csproj.ResolveComReference.cache
