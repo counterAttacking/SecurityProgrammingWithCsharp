@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\bin\Debug\FileHash.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\bin\Debug\FileHash.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\bin\Debug\FileHash.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\FileHash\obj\Debug\FileHash.pdb
