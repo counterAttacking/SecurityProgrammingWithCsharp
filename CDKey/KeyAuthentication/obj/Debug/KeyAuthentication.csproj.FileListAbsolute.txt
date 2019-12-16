@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\bin\Debug\KeyAuthentication.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\bin\Debug\KeyAuthentication.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\bin\Debug\KeyAuthentication.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\KeyAuthentication\obj\Debug\KeyAuthentication.pdb
