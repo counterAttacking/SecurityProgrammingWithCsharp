@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\bin\Debug\BruteForceLogin.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\bin\Debug\BruteForceLogin.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\bin\Debug\BruteForceLogin.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\BruteForceLogin\obj\Debug\BruteForceLogin.pdb
