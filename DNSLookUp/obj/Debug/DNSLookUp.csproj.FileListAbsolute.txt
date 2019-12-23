@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\bin\Debug\DNSLookUp.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\bin\Debug\DNSLookUp.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\bin\Debug\DNSLookUp.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\DNSLookUp\obj\Debug\DNSLookUp.pdb
