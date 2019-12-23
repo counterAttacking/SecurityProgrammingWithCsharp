@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\bin\Debug\IPViewer.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\bin\Debug\IPViewer.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\bin\Debug\IPViewer.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\IPViewer\obj\Debug\IPViewer.pdb
