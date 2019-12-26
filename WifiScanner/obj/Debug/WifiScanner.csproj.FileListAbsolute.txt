@@ -1,0 +1,12 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\bin\Debug\WifiScanner.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\bin\Debug\WifiScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\bin\Debug\WifiScanner.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\bin\Debug\ManagedWifi.dll
+D:\PowerUser\SecurityProgrammingWithCsharp\WifiScanner\obj\Debug\WifiScanner.csproj.CopyComplete
