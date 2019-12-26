@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\bin\Debug\PortScanner.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\bin\Debug\PortScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\bin\Debug\PortScanner.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\PortScanner\obj\Debug\PortScanner.pdb
