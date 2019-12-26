@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\bin\Debug\NetStat.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\bin\Debug\NetStat.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\bin\Debug\NetStat.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetStat\obj\Debug\NetStat.pdb
