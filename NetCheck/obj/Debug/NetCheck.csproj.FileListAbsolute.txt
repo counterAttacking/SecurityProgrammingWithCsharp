@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\bin\Debug\NetCheck.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\bin\Debug\NetCheck.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\bin\Debug\NetCheck.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetCheck\obj\Debug\NetCheck.pdb
