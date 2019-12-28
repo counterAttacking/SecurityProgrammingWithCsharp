@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\bin\Debug\NetworkScanner.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\bin\Debug\NetworkScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\bin\Debug\NetworkScanner.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\NetworkScanner\obj\Debug\NetworkScanner.pdb
