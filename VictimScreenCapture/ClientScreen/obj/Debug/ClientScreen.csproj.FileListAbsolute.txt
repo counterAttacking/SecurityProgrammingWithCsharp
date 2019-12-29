@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\bin\Debug\ClientScreen.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\bin\Debug\ClientScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\bin\Debug\ClientScreen.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ClientScreen\obj\Debug\ClientScreen.pdb

@@ -1,0 +1,9 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\bin\Debug\ServerScreen.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\bin\Debug\ServerScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\bin\Debug\ServerScreen.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\VictimScreenCapture\ServerScreen\obj\Debug\ServerScreen.pdb
