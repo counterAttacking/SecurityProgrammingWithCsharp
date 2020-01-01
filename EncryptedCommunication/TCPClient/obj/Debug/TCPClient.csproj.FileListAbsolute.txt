@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\bin\Debug\TCPClient.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\bin\Debug\TCPClient.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\bin\Debug\TCPClient.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPClient\obj\Debug\TCPClient.pdb

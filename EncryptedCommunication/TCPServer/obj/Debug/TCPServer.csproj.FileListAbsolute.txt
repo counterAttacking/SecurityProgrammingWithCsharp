@@ -1,0 +1,10 @@
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\bin\Debug\TCPServer.exe.config
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\bin\Debug\TCPServer.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\bin\Debug\TCPServer.pdb
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.exe
+D:\PowerUser\SecurityProgrammingWithCsharp\EncryptedCommunication\TCPServer\obj\Debug\TCPServer.pdb
